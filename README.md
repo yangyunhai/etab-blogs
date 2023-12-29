@@ -1,5 +1,5 @@
 <div style="text-align: center;">
- <img src="./static/images/logo.svg"/>
+ <img style="height: 128px;" src="./static/images/logo.svg"/>
 </div>
 
 ## eTab新标签页平台-国外社区文章翻译开源仓库
