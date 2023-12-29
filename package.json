@@ -1,7 +1,8 @@
 {
   "name": "etab-blogs",
   "version": "1.0.0",
-  "description": "",
+  "description": "eTab,eTab新标签页,前端博客,国外文章,国外优秀技术文章",
+  "keywords": ["eTab","eTab新标签页","前端博客","国外文章","国外优秀技术文章"],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
