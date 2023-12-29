@@ -1,0 +1,19 @@
+{
+  "name": "etab-blogs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangyunhai/etab-blogs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangyunhai/etab-blogs/issues"
+  },
+  "homepage": "https://github.com/yangyunhai/etab-blogs#readme"
+}
