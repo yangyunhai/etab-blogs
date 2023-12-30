@@ -1,4 +1,4 @@
-![](https://a.storyblok.com/f/117250/1024x577/97cc117f95/claymorphism.png)
+![](https://img13.360buyimg.com/ddimg/jfs/t1/240581/25/1590/20824/658ffb7cF69b29e30/7d8be7ddda7549ea.jpg)
 
 > 从开发人员的角度看新的 UI 设计趋势
 
@@ -89,7 +89,7 @@ body {
 
 我们的结果：
 
-![Claymorphism 初始标记](https://a.storyblok.com/f/117250/846x497/956fec8ae6/screenshot-2021-12-19-at-16-34-22.png)
+![Claymorphism 初始标记](https://img12.360buyimg.com/ddimg/jfs/t1/240574/16/1730/10587/658ffb8aF8a135cb1/eb2ec2ec5d7b593a.jpg)
 
 棒！现在我们的基本标记已经准备好了。现在让我们深入了解 box-shadow。
 
@@ -130,7 +130,7 @@ body {
 
 我们已经有一张好看但普通的卡片。
 
-![具有外阴影的粘土形态](https://a.storyblok.com/f/117250/843x496/c023ce5add/screenshot-2021-12-19-at-16-36-38.png)
+![具有外阴影的粘土形态](https://img12.360buyimg.com/ddimg/jfs/t1/51574/29/21530/10213/658ffb97F70e57746/c5f66a5e66f2b97e.jpg)
 
 然后我们只需要添加内部阴影，如下所示：
 
@@ -142,7 +142,7 @@ body {
     }
 ```
 
-![具有外影和内影的粘土形态](https://a.storyblok.com/f/117250/843x496/574041eabc/screenshot-2021-12-19-at-16-36-49.png)
+![具有外影和内影的粘土形态](https://img11.360buyimg.com/ddimg/jfs/t1/236403/15/9418/10267/658ffba2Faaef9e18/2e27e466685880ce.jpg)
 
 **干的好！我们**使用 CSS 创建了 **Claymorphism 效果。**
 
@@ -152,13 +152,13 @@ body {
 
 框阴影支持：
 
-![框阴影支持](https://a.storyblok.com/f/117250/1441x619/e114e6a568/boxshadow.png)
+![框阴影支持](https://img13.360buyimg.com/ddimg/jfs/t1/244601/11/1453/63992/658ffbafF83ff9067/dae3a4010be6d1a7.jpg)
 
 我可以使用
 
 边框半径支持：
 
-![Border Radius 支持](https://a.storyblok.com/f/117250/1433x682/cd41c460f7/borderradius.png)
+![Border Radius 支持](https://img13.360buyimg.com/ddimg/jfs/t1/245687/36/1044/83101/658ffbbaFb091d304/8e4050233a58a2ae.jpg)
 
 我可以使用
 
@@ -180,7 +180,7 @@ body {
     }
 ```
 
-![粘土形态和玻璃形态](https://a.storyblok.com/f/117250/842x494/536d6a4d77/screenshot-2021-12-19-at-16-37-09.png)
+![粘土形态和玻璃形态](https://img11.360buyimg.com/ddimg/jfs/t1/246866/11/1483/10458/658ffbc7Fa45d03e0/9dbd42dbce684880.jpg)
 
 ## **Claymorphism 在 2022 之内**
 
@@ -195,6 +195,6 @@ Codepen 和我们的练习[在这里](https://codepen.io/walickialbert/pen/ebe02
 
 喜欢这篇文章吗？分享吧！
 
-[原文链接](https://hype4.academy/articles/coding/how-to-create-claymorphism-using-css)
+[@翻译平台：eTab新标签页](https://etab.store/)
 
-[@文章采集助手](https://etab.store/)
+[@原文链接](https://hype4.academy/articles/coding/how-to-create-claymorphism-using-css)

@@ -4,7 +4,7 @@
 
 **通过定义完整的行动计划开始您的探索。**
 
-![混合现实界面](https://a.storyblok.com/f/117250/2000x1168/d1336e0e8a/cover-image.webp)
+![混合现实界面](https://picx.zhimg.com/80/v2-2f14b5e991f1dc844bf8e20ca1219465_720w.webp)
 
 ## **建立**
 
@@ -12,7 +12,7 @@
 
 从一开始就承认这一点会增加探索的真实性——我们这样做不是因为我们 100% 确定这将是更好的 AR 体验。我们正在制定一个计划，将其变成一个计划，但即使最终失败了，探索——道路——仍然是值得的。
 
-![社区平台截图](https://a.storyblok.com/f/117250/1777x1008/2098c70cd2/community-platform-screengrab.webp)
+![社区平台截图](https://pic1.zhimg.com/80/v2-b0a21f30e5b405417a3a903f113bcd21_720w.webp)
 
 ## **第 1 步 — 沉浸在案例研究中**
 
@@ -22,7 +22,7 @@
 
 这种真实性使案例研究更加有趣，因为它不是故意美化的。
 
-![我客厅的照片](https://a.storyblok.com/f/117250/1280x960/b1d06313f9/my-living-room.webp)
+![我客厅的照片](https://pic1.zhimg.com/80/v2-ee38aa50f31cc2bfec7496e7f4d1e0e9_720w.webp)
 
 当然，真实并不意味着我们不能解决一些问题。
 
@@ -30,7 +30,7 @@
 
 我把照片带到了 Pixelmator（如果你愿意，你可以使用 Photoshop），并用生成填充来清理它。
 
-![客厅没有电线](https://a.storyblok.com/f/117250/2218x1247/cc5a1040bc/living-room-without-wire.webp)
+![客厅没有电线](https://picx.zhimg.com/80/v2-7cc7027c2c549b4e08f68bc47d410a52_720w.webp)
 
 ## **第 2 步 — 规划**
 
@@ -42,15 +42,15 @@
 
 因此，我从单个窗口开始查看项目。
 
-![基本线框 LOFI](https://a.storyblok.com/f/117250/1808x1104/e0a90cff9a/basic-wireframe-lofi.webp)
+![基本线框 LOFI](https://pic1.zhimg.com/80/v2-dfb6cb5209e7399b2ba611e6ba107ced_720w.webp)
 
 设计空间界面的首要原则是熟悉度。无需重新发明轮子——让我们从社区成员提交的简单屏幕网格开始。
 
-![侧边栏涂鸦](https://a.storyblok.com/f/117250/1046x686/6d7c948706/sidebar-doodle.webp)
+![侧边栏涂鸦](https://picx.zhimg.com/80/v2-e0b5a3d13813ebeba46fa9810c237af0_720w.webp)
 
 然后，我勾勒出将用作辅助导航的主要垂直选项卡集。这个项目中的主导航实际上是上下文相关的——发生在主窗口内。
 
-![用户 POV 插图](https://a.storyblok.com/f/117250/1100x723/a6889070fe/user-pov-illustration.webp)
+![用户 POV 插图](https://pic1.zhimg.com/80/v2-843c41f20263bfe74068b2cd58313197_720w.webp)
 
 然后我想象，当你进入一个设计类别时，你会得到一个完全身临其境的环绕体验。
 
@@ -58,13 +58,13 @@
 
 您在您面前滑动一个具有 180° 视野的旋转木马，但主要焦点始终放在最中心的设计上。
 
-![180度视图](https://a.storyblok.com/f/117250/1518x997/6292db85fd/180-deg-view.webp)
+![180度视图](https://picx.zhimg.com/80/v2-6d688c924f3cd08bdf75669af2cb549d_720w.webp)
 
 要为设计分配质量级别（分数），请将焦点放在它上，然后向上（到更高的级别）或向下（到较低的平面）滑动它
 
 从侧面看，它看起来有点像这样：
 
-![180度侧视图](https://a.storyblok.com/f/117250/1846x1219/e1b86d9c40/180-deg-side-view.webp)
+![180度侧视图](https://picx.zhimg.com/80/v2-9e30536a2d702a61070417d21755e6c7_720w.webp)
 
 大多数界面都是完全 2D 的，但我认为这种将设计移动到不同层次的交互可以在 3D 空间中很好地工作
 
@@ -72,13 +72,13 @@
 
 有了我主要的“空间”啊哈时刻，我决定在卡片视图中添加更多细节。
 
-![旋转 UI](https://a.storyblok.com/f/117250/1795x1179/d7a5235b66/side-views-and-rotating-ui.webp)
+![旋转 UI](https://pic1.zhimg.com/80/v2-7ba0f87c727dc77b35373b3c0a8ca447_720w.webp)
 
 卡片可以旋转以显示用作 UI 设计基础的低保真线框。
 
 这是低保真和高保真之间的切换。
 
-![剥离 Lofi](https://a.storyblok.com/f/117250/1221x802/51789257f9/strips-lofi.webp)
+![剥离 Lofi](https://pic1.zhimg.com/80/v2-6414fc19ee9e60ba8e4b98dbc326d821_720w.webp)
 
 我还添加了一组额外的控件，用于打开此设计中使用的层次结构条和间距准则。
 
@@ -90,17 +90,17 @@
 
 知道了这个计划后，我继续以中等保真度绘制了主屏幕的草图，看看它们是如何组合在一起的。
 
-![中保真设计](https://a.storyblok.com/f/117250/1920x1080/17c4504fa1/mid-fidelity-design.webp)
+![中保真设计](https://picx.zhimg.com/80/v2-957f5c99341e11753baa4617a7c4049d_720w.webp)
 
 主屏幕相当简单。一个由设计、作者姓名和照片组成的网格，一种喜欢它的能力。
 
 我还添加了一个过滤器框，仅显示喜欢的项目或所有项目。
 
-![项目视图轮播](https://a.storyblok.com/f/117250/3840x2160/2bfa804b0d/project-views-carousel.webp)
+![项目视图轮播](https://pica.zhimg.com/80/v2-d12243861ad274d1f8b1c990c0f6ab9e_720w.webp)
 
 使用 3D 变形的侧卡，浏览体验非常好。它们也会变暗，因此可以更多地关注中间的卡片——用户正在查看的卡片。
 
-![带条带的选定项目](https://a.storyblok.com/f/117250/3840x2160/00019f3ad6/selected-project-with-strips.webp)
+![带条带的选定项目](https://pic1.zhimg.com/80/v2-44b12ab2f55a699638193078db8e85ff_720w.webp)
 
 当完全专注于卡时，它会更接近用户并显示额外的功能。
 
@@ -110,17 +110,17 @@
 
 下一步是探索一些材料。当然，苹果在这里有自己的建议，并且已经发布了他们的 UI 套件。但我想尝试一些更定制的东西，只是想看看它会把我引向何方。
 
-![玻璃形态室](https://a.storyblok.com/f/117250/1920x1080/1b08a15885/glsmrphsm-room.webp)
+![玻璃形态室](https://pic1.zhimg.com/80/v2-8c48b36a34c63c1ec9a3b3a26d80f516_720w.webp)
 
 我把我的玻璃变形面板贴在我的房间照片上，并立即意识到它不会那么简单。Vision OS 会根据照明条件和一般环境实时调整车窗。
 
 所以我不得不修改它以匹配我的空间。
 
-![玻璃形态室 V2](https://a.storyblok.com/f/117250/1920x1080/d41a0ad509/glassmorphism-room-v2.webp)
+![玻璃形态室 V2](https://picx.zhimg.com/80/v2-15e219d4d84d1695e1ad37513c61146b_720w.webp)
 
 经过这些调整后，它肯定更清晰、更容易阅读。下一步就是对细节进行微调。
 
-![特写滑块](https://a.storyblok.com/f/117250/1438x754/51ddad1fc4/closeup-slider.webp)
+![特写滑块](https://picx.zhimg.com/80/v2-15e219d4d84d1695e1ad37513c61146b_720w.webp)
 
 因为我的房间左边有窗户，所以我修改了渐变和轮廓，从那个方向照亮。
 
@@ -130,19 +130,19 @@
 
 ### 实验
 
-![实验 v1](https://a.storyblok.com/f/117250/2190x1222/85ef059b4c/experiment-v1.webp)
+![实验 v1](https://pic1.zhimg.com/80/v2-383c9392cda381aff30cb4e4207462ce_720w.webp)
 
 但我对这个大方向并不完全满意。这促使我进行了一些额外的材料探索，并创建了两种更圆润的玻璃面板，如上例所示。
 
-![panel in a bright room](https://a.storyblok.com/f/117250/2000x1125/df844b7026/panel-in-a-bright-room.webp)
+![panel in a bright room](https://picx.zhimg.com/80/v2-fb6e679a196ee5908d6e8c4aa27e1dd8_720w.webp)
 
-That led to a pretty interesting user interface. It did have some clarity problems for the selected icons, however.
+这导致了一个非常有趣的用户界面。然而，所选图标确实存在一些清晰度问题。
 
 是的，对于这些探索，我恢复到一个更丰富多彩、更有活力和更繁忙的背景，只是为了确保这些新材料在那种情况下运行良好。
 
 使用物理按钮的范式，我想象如果它只是简单地压在玻璃上会是什么样子。
 
-![明亮房间的面板 V2](https://a.storyblok.com/f/117250/2000x1125/7a340199f4/panel-in-bright-room-v2.webp)
+![明亮房间的面板 V2](https://pic1.zhimg.com/80/v2-e432617bcb9c38e573088f0c09a9d074_720w.webp)
 
 坦率地说，我很喜欢这种外观！它很独特，在现实空间中是有意义的，并且是一个非常明确的选择指标。
 
@@ -150,7 +150,7 @@ That led to a pretty interesting user interface. It did have some clarity proble
 
 如果我只在小菜单和叠加层上使用这种更圆润的样式，并使主窗口更简单，会怎么样？
 
-![明亮房间决赛的小组讨论](https://a.storyblok.com/f/117250/2000x1125/17f1b77785/panel-in-bright-room-final.webp)
+![明亮房间决赛的小组讨论](https://picx.zhimg.com/80/v2-04a87e522848cd44352e65f2afcea4f9_720w.webp)
 
 主窗口在较暗时看起来更干净，它可以更轻松地将焦点从它转移到导航面板并返回。
 
@@ -158,7 +158,7 @@ That led to a pretty interesting user interface. It did have some clarity proble
 
 ## **映射交互**
 
-![UI挑战向上滑动](https://a.storyblok.com/f/117250/2534x1398/402364fb02/ui-challenge-swipe-up.webp)
+![UI挑战向上滑动](https://pic1.zhimg.com/80/v2-62fcda8892f6318af6a1499268764412_720w.webp)
 
 我想象滑动和轻弹的交互也发生在 3D 空间中。这张卡不会简单地向上移动，而是会在 3D 空间中的圆形路径上移动。
 
@@ -174,7 +174,7 @@ That led to a pretty interesting user interface. It did have some clarity proble
 
 这对于身临其境的体验来说绰绰有余。
 
-![iPad 上的初始线框](https://a.storyblok.com/f/117250/2470x1384/f73459e8d8/initial-wireframe-on-an-ipad.webp)
+![iPad 上的初始线框](https://picx.zhimg.com/80/v2-1023c49e3a9ca4c81cc0b922de163119_720w.webp)
 
 ## **思潮？**
 
@@ -192,7 +192,7 @@ That led to a pretty interesting user interface. It did have some clarity proble
 
 当然，还有更多需要探索的地方，并可能对体验进行编码，以了解它在实际设备上的工作方式。
 
-![面板明亮的房间 结论](https://a.storyblok.com/f/117250/2000x1125/c61a9f3e29/panel-bright-room-conclusion.webp)
+![面板明亮的房间 结论](https://pica.zhimg.com/80/v2-478240e460268375cc5f5bf78c81a441_720w.webp)
 
 但在此之前，发挥一点创意真的很好。通过从头到尾专注于整个体验，我能够更好地掌握空间交互的一些缺点、我们自己的认知限制等等。
 
@@ -206,6 +206,6 @@ That led to a pretty interesting user interface. It did have some clarity proble
 
 喜欢这篇文章吗？分享吧！
 
-[原文链接](https://hype4.academy/articles/design/mixed-reality-app-design-case-study)
+[@翻译平台：eTab新标签页](https://etab.store/)
 
-[@文章采集助手](https://etab.store/)
+[@原文链接](https://hype4.academy/articles/design/mixed-reality-app-design-case-study)

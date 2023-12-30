@@ -1,4 +1,4 @@
-![](https://a.storyblok.com/f/117250/1200x675/f16f498f96/seo.png)
+![](https://picx.zhimg.com/80/v2-d8405c7e853166121731f566cc1b3df0_720w.png)
 
 > 了解如何使用简单的 Node.js 脚本生成 SEO 图像
 
@@ -14,7 +14,7 @@
 
 出于所有设计目的，我使用 Figma。它简单易用！
 
-![我在 Figma 中创建的基础图像的屏幕截图](https://a.storyblok.com/f/117250/1609x962/40ae6320ff/ogimages_base.png)
+![我在 Figma 中创建的基础图像的屏幕截图](https://picx.zhimg.com/80/v2-7d33ae103db22eea17842d8f6a4515b9_720w.png)
 
 我们需要的第二件事是安装一个 [node-html-to-image](https://www.npmjs.com/package/node-html-to-image) 库。
 
@@ -53,11 +53,11 @@ nodeImage();
 
 这是我们的登录终端：
 
-![节点日志截图](https://a.storyblok.com/f/117250/382x98/388e6c6fd4/firstlog.png)
+![节点日志截图](https://pic1.zhimg.com/80/v2-8063153346704c9800cb3aae2f2e719f_720w.png)
 
 都很好！因此，让我们检查一下图像：
 
-![我们使用 Node.js 生成的第一个图像](https://a.storyblok.com/f/117250/1252x796/3ddc3fed2c/firstoutput.png)
+![我们使用 Node.js 生成的第一个图像](https://picx.zhimg.com/80/v2-2790ef492c784524aaa756336b990a8b_720w.png)
 
 完善！我们的脚本成功了，所以让我们创建一个更复杂的示例。
 
@@ -132,7 +132,7 @@ nodeImage();
 
 我们的样式图像如下所示：
 
-![样式生成的图像](https://a.storyblok.com/f/117250/1197x672/8483d85333/styledoutput1.png)
+![样式生成的图像](https://picx.zhimg.com/80/v2-f30f10aece3414309898392cd8e18ff4_720w.png)
 
 但现在，我们的图像是静态的，无法更改文本或基本背景。所以，让我们改变这一点！
 
@@ -200,7 +200,7 @@ nodeImage({
 
 还有我们花哨的字体！
 
-![使用自定义字体生成的图像](https://a.storyblok.com/f/117250/1199x673/4a5720a146/customfontimage.png)
+![使用自定义字体生成的图像](https://picx.zhimg.com/80/v2-5fa5aa28093b8555c7bc91e3228de401_720w.png)
 
 ## 防止重复
 
@@ -319,6 +319,6 @@ let alreadyCreated = await imageExists({filename});
 
 喜欢这篇文章吗？分享吧！
 
-[原文链接](https://albertwalicki.com/blog/learn-how-to-generate-seo-Images-with-simple-nodejs-script)
+[@翻译平台：eTab新标签页](https://etab.store/)
 
-[@文章采集助手](https://etab.store/)
+[@原文链接](https://albertwalicki.com/blog/learn-how-to-generate-seo-Images-with-simple-nodejs-script)

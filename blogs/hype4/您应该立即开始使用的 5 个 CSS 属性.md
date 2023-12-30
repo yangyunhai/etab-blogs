@@ -1,4 +1,4 @@
-![](https://a.storyblok.com/f/117250/3032x2021/52e8d07767/nick-fewings-f6iowltodbo-unsplash.jpg)
+![](https://img11.360buyimg.com/ddimg/jfs/t1/247775/8/1392/148219/658ff92cF25cc6d0b/6d6930778e16d2ca.jpg)
 
 > 熟悉 CSS 简直是魔术。学会使用它的力量。
 
@@ -24,11 +24,11 @@
 
 设置元素的宽度和高度通常很简单。但是你有没有注意到，如果你需要让一些文本垂直而不是水平移动，会发生什么？您可以使用以下方法轻松设置此项，但宽度和高度突然停止与文本流匹配。`writing-mode`
 
-幸运的是，您可以使用 和 而不是元素的高度和宽度来修复它。` block-size``inline-size `
+幸运的是，您可以使用 和 而不是元素的高度和宽度来修复它。` block-size` `inline-size `
 
-对于标准，水平方向的元素与元素的高度有关，并且与元素的宽度有关。` block-size``inline-size `
+对于标准，水平方向的元素与元素的高度有关，并且与元素的宽度有关。` block-size` `inline-size `
 
-对于垂直方向的元素，它与元素的宽度有关，并且与元素的高度有关。` block-size``inline-size `
+对于垂直方向的元素，它与元素的宽度有关，并且与元素的高度有关。` block-size` `inline-size `
 
 我知道这可能很令人困惑，所以看看下面的笔，看看他们俩在行动。
 
@@ -36,7 +36,7 @@
 
 #### 浏览器支持
 
-现在，所有现代浏览器都支持。IE11 不支持它们。` block-size``inline-size `
+现在，所有现代浏览器都支持。IE11 不支持它们。` block-size` `inline-size `
 
 ### 3\. 插图
 
@@ -71,7 +71,7 @@
 
 #### 浏览器支持
 
-现在，所有现代浏览器都支持。IE11 不支持它们。` block-size``inline-size `
+现在，所有现代浏览器都支持。IE11 不支持它们。`block-size` `inline-size `
 
 ### 4\. 列表样式
 
@@ -109,10 +109,6 @@
 
 喜欢这篇文章吗？分享吧！
 
-[原文链接](https://hype4.academy/articles/coding/5-css-properties-you-should-start-using-right-now)
+[@翻译平台：eTab新标签页](https://etab.store/)
 
-[@文章采集助手](https://etab.store/)
-
-```
-
-```
+[@原文链接](https://hype4.academy/articles/coding/5-css-properties-you-should-start-using-right-now)

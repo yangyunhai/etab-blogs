@@ -1,4 +1,4 @@
-![](https://a.storyblok.com/f/117250/3982x2404/5acf04bc95/clemens-van-lay-5ethdzpvqye-unsplash.jpg)
+![](https://img12.360buyimg.com/ddimg/jfs/t1/243875/40/1507/22086/658ffdd4F9ef3ea98/86487d763c422dc0.jpg)
 
 > 有很多语言可供选择。想知道先学什么吗？押注 JavaScript
 
@@ -40,8 +40,6 @@ JavaScript 资源无处不在。只需一次 Google 搜索，您就可以找到�
 
 ---
 
-![](https://cdn-images-1.medium.com/max/800/1*iQ2R9dPBsw5axnseRukkEQ.jpeg)照片由 [谷仓图片](https://unsplash.com/@barnimages?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/toolbox?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
 ### JavaScript 用途广泛
 
 JavaScript 曾经是运行 Web 的语言。现在仍然如此;超过 [97% 的网站使用 JavaScript](https://en.wikipedia.org/wiki/JavaScript)。如果你想进入前端开发，学习 JavaScript 是必须的。无论您是在谷歌还是小型创业公司工作，这都无关紧要;这种语言在网络上无处不在，了解它是一个巨大的优势。
@@ -72,6 +70,6 @@ JavaScript 开发人员的薪水也在上涨。根据国家/地区的不同，�
 
 喜欢这篇文章吗？分享吧！
 
-[原文链接](https://hype4.academy/articles/coding/javascript-should-be-the-first-language-you-learn)
+[@翻译平台：eTab新标签页](https://etab.store/)
 
-[@文章采集助手](https://etab.store/)
+[@原文链接](https://hype4.academy/articles/coding/javascript-should-be-the-first-language-you-learn)
